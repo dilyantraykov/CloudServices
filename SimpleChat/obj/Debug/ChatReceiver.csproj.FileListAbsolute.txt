@@ -1,9 +1,0 @@
-D:\Programming\Telerik-Academy\Web Services and Cloud Homeworks\Cloud Services\CloudServices\SimpleChat\bin\Debug\SimpleChat.exe.config
-D:\Programming\Telerik-Academy\Web Services and Cloud Homeworks\Cloud Services\CloudServices\SimpleChat\bin\Debug\SimpleChat.exe
-D:\Programming\Telerik-Academy\Web Services and Cloud Homeworks\Cloud Services\CloudServices\SimpleChat\bin\Debug\SimpleChat.pdb
-D:\Programming\Telerik-Academy\Web Services and Cloud Homeworks\Cloud Services\CloudServices\SimpleChat\bin\Debug\IronMQ.NET.dll
-D:\Programming\Telerik-Academy\Web Services and Cloud Homeworks\Cloud Services\CloudServices\SimpleChat\bin\Debug\Newtonsoft.Json.dll
-D:\Programming\Telerik-Academy\Web Services and Cloud Homeworks\Cloud Services\CloudServices\SimpleChat\bin\Debug\Newtonsoft.Json.pdb
-D:\Programming\Telerik-Academy\Web Services and Cloud Homeworks\Cloud Services\CloudServices\SimpleChat\bin\Debug\Newtonsoft.Json.xml
-D:\Programming\Telerik-Academy\Web Services and Cloud Homeworks\Cloud Services\CloudServices\SimpleChat\obj\Debug\SimpleChat.exe
-D:\Programming\Telerik-Academy\Web Services and Cloud Homeworks\Cloud Services\CloudServices\SimpleChat\obj\Debug\SimpleChat.pdb

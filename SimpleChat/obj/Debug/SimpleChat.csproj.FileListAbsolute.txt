@@ -1,2 +1,0 @@
-D:\Programming\Telerik-Academy\Web Services and Cloud Homeworks\Cloud Services\CloudServices\SimpleChat\bin\Debug\SimpleChat.exe.config
-D:\Programming\Telerik-Academy\Web Services and Cloud Homeworks\Cloud Services\CloudServices\SimpleChat\obj\Debug\SimpleChat.csprojResolveAssemblyReference.cache
